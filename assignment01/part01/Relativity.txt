@@ -1,0 +1,962 @@
+The Project Gutenberg EBook of Einstein's Theories of Relativity and
+Gravitation, by J. Malcolm Bird
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Einstein's Theories of Relativity and Gravitation
+
+Author: J. Malcolm Bird
+
+Release Date: October 4, 2020 [EBook #63372]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EINSTEIN'S THEORIES--RELATIVITY, GRAVITATION ***
+
+
+
+
+Produced by Jeroen Hellingman and the Online Distributed
+Proofreading Team at https://www.pgdp.net/ for Project
+Gutenberg (This book was produced from scanned images of
+public domain material from the Google Books project.)
+
+
+
+
+
+
+
+
+
+           EINSTEIN'S THEORIES OF RELATIVITY AND GRAVITATION
+
+                A SELECTION OF MATERIAL FROM THE ESSAYS
+                      SUBMITTED IN THE COMPETITION
+                 FOR THE EUGENE HIGGINS PRIZE OF $5,000
+
+
+                          COMPILED AND EDITED,
+                    AND INTRODUCTORY MATTER SUPPLIED
+                                   BY
+                            J. MALCOLM BIRD,
+                 Associate Editor, Scientific American
+
+
+                                NEW YORK
+                  SCIENTIFIC AMERICAN PUBLISHING CO.,
+                               MUNN & CO.
+                                  1921
+
+
+
+
+
+
+
+
+
+PREFACE
+
+
+The obstacles which the layman finds to understanding Einstein's
+relativity theories lie not so much in the inherent difficulty of
+these theories themselves as in the difficulty of preparing the
+mind for their reception. The theory is no more difficult than any
+scientific development of comparable depth; it is not so difficult as
+some of these. But it is a fact that for a decent understanding of it,
+a large background of scientific knowledge and scientific habit of
+thought is essential. The bulk of the writers who have attempted to
+explain Einstein to the general reader have not realized the great gulf
+which lies between the mental processes of the trained mathematician
+and those of the man in the street. They have not perceived that
+the lay reader must be personally conducted for a long distance from
+the vestibule of the temple of science before he comes to Einstein,
+and that he cannot by any possibility make this journey unaided. The
+result has been to pitchfork the reader into the intricacies of the
+subject without adequate preparation.
+
+The present volume avoids this mistake with the utmost care. It avoids
+it, in fact, with such deliberation as to make it in order to say a
+word in explanation of what will at first glance seem an extraordinary
+arrangement of material. It was to be expected, doubtless, that this
+book would open with a brief statement of the genesis and the outcome
+of the Einstein Prize Essay Contest for the $5,000 prize offered by
+Mr. Eugene Higgins. It was doubtless to be expected that, after this
+had been dismissed, the winning essay would be given the post of honor
+in advance of all other material bearing actually on the Einstein
+theories. When the reader observes that this has not been done, he
+will by all means expect a word of explanation; and it is mainly for
+the purpose of giving this that we make these introductory remarks.
+
+The essays submitted in the contest, and in particular the comments of
+a few disappointed readers upon Mr. Bolton's prize essay, make quite
+plain what might have been anticipated--that in the small compass
+of 3,000 words it is not possible both to prepare the reader's mind
+for a discussion of Relativity and to give a discussion that shall be
+adequate. Mr. Bolton himself, in replying to a protest that he had not
+done all this, has used the word "miracle"--we think it a well-advised
+one. No miracle was expected as a result of the contest, and none has
+been achieved. But in awarding the prize, the Judges had to decide
+whether it was the best preliminary exposition or the best discussion
+that was wanted. They decided, and rightly we believe, that the award
+should go to an actual statement of what the Einstein theories are
+and what they do, rather than to a mere introduction, however well
+conceived and well executed the latter might be. Nevertheless,
+we should be closing our eyes to a very obvious fact if we did
+not recognize that, without something in the way of preparation,
+the general reader is not going to pursue Mr. Bolton's essay, or
+any other essay on this subject, with profit. It is in order the
+more forcefully to hold out inducements to him to subject himself to
+this preparation that we place at the head of the book the chapters
+designed to give it to him.
+
+Chapter II. is intended so to bring the mind of the reader into contact
+with certain philosophical problems presented to us by our experiences
+with the external world and our efforts to learn the facts about it,
+that he may approach the subject of relativity with an appreciation
+of the place it occupies as a phase of human thought and a pillar of
+the scientific structure. Until the reader is aware of the existence
+of these problems and the directions taken by the efforts, successful
+and unsuccessful, to unravel them, he is not equipped to comprehend
+the doctrine of relativity at all; he is in much the same case as a
+child whose education had reached only the primer stage, if asked to
+read the masterpieces of literature. He lacks not alone the vocabulary,
+but equally the mental background on which the vocabulary is based.
+
+It will be noted that in this and the chapters immediately following
+it, the Editor has supplied material freely. The obvious interpretation
+is that satisfactory material covering the desired ground was not
+found in any of the essays; for we are sure the scope and number
+of the credited excerpts will make it clear that all contributions
+were adequately scrutinized in search of available passages. This
+"inadequacy" of the competing essays has been severely commented
+upon by several correspondents, and the inference drawn that as
+a whole the offerings were not up to the mark. Such a viewpoint
+is wholly unjust to the contestants. The essays which paid serious
+attention to the business of paving the way to relativity necessarily
+did so at the expense of completeness in the later paragraphs where
+specific explanation of the Einstein theories was in order. Mr. Law,
+whose essay was by all means the best of those that gave much space
+to introductory remarks, found himself left with only 600 words
+in which to tell what it was that he had been introducing. The
+majority of the contestants appear to have faced the same question
+as to subject matter which the Judges faced, and to have reached
+the same decision. They accordingly devoted their attention toward
+the prize, rather than toward the production of an essay that would
+best supplement that of the winner. It is for this very reason that,
+in these preliminary chapters, so large a proportion of the material
+has had to be supplied by the Editor; and this very circumstance is
+a tribute to the good judgment of the competitors, rather than ground
+for criticism of their work.
+
+The general introduction of Chapter II. out of the way, Chapters
+III. and IV. take up the business of leading the reader into the
+actual subject of relativity. The subject is here developed in what
+may be called the historical order--the order in which it took form in
+Einstein's own mind. Both in and outside the contest of which this book
+is the outcome, a majority of those who have written on relativity
+have followed this order, which is indeed a very natural one and
+one well calculated to give to the rather surprising assumptions of
+relativity a reasonableness which they might well appear to the lay
+mind to lack if laid down more arbitrarily. In these two chapters
+no effort is made to carry the argument beyond the formulation of
+the Special Principle of the relativity of uniform motion, but this
+principle is developed in considerably more detail than would be the
+case if it were left entirely to the competing essayists. The reason
+for this is again that we are dealing with a phase of the subject
+which is of subordinate importance so far as a complete statement of
+the General Theory of Relativity is concerned, but which is of the
+greatest significance in connection with the effort of the layman to
+acquire the proper preliminary orientation toward the larger subject.
+
+Chapter V. goes back again to general ground. Among the ideas which
+the competing essayists were forced to introduce into their text on a
+liberal scale is that of non-Euclidean geometry. The entire formulation
+of the General Theory of Relativity is in fact an exercise in this. The
+essayists--good, bad and indifferent alike--were quite unanimous in
+their decision that this was one thing which the reader would have
+to assume the responsibility of acquiring for himself. Certainly they
+were justified in this; for the Editor has been able to explain what
+non-Euclidean geometry is only by using up considerably more space
+than the contestants had for an entire essay. No effort has been made
+to set forth any of the details of any of the various non-Euclidean
+geometries; it has simply been the aim to draw the dividing line
+between Euclidean and non-Euclidean, and to make the existence of
+the latter appear reasonable, so that when the essayists come to talk
+about it the reader will not feel hopelessly at sea. In other words,
+this is another case of providing the mental background, but on such
+a scale that it has seemed necessary to give a separate chapter to it.
+
+Chapter VI. completes the preliminary course in the fundamentals of
+relativity by tying up together the findings of Chapter V. and those
+of Chapters III. and IV. It represents more or less of a last-minute
+change of plan; for while it had been the Editor's intent from the
+beginning to place the material of Chapters II.-V. in its present
+position, his preliminary impression would have been that the work
+of the present Chapter VI. would be adequately done by the essayists
+themselves. His reading of the essays, however, convinced him that it
+had not so been done--that with the possible exception of Mr. Francis,
+the essayists did not make either a serious or a successful effort to
+show the organic connection between the Special Theory of Relativity
+and the Minkowski space-time structure, or the utter futility of
+trying to reconcile ourselves to the results of the former without
+employing the ideas of the latter. So Chapter VI. was supplied to make
+good this deficiency, and to complete the mental equipment which the
+reader requires for his battle with the General Theory.
+
+In laying down a set of general principles to govern the award of
+the prize, one of the first things considered by the Judges was the
+relative importance of the Special and the General Theories. It was
+their opinion that no essay could possibly qualify for the prize which
+did not very distinctly give to the General Theory the center of the
+stage; and that in fact discussion of the Special Theory was pertinent
+only so long as it contributed, in proportion to the space assigned
+it, to the attack upon the main subject. The same principle has been
+employed in selecting essays for complete or substantially complete
+reproduction in this volume. Writers who dealt with the Special Theory
+in any other sense than as a preliminary step toward the General Theory
+have been relegated to the introductory chapters, where such excerpts
+from their work have been used as were found usable. The distinction
+of publication under name and title is reserved for those who wrote
+consistently and specifically upon the larger subject--with the one
+exception of Dr. Russell, whose exposition of the Special Theory is so
+far the best of those submitted and at the same time so distinctive
+that we have concluded it will appear to better advantage by itself
+than as a part of Chapters III. and IV.
+
+Following after Mr. Bolton's essay we have tried to arrange the various
+contributions, not at all in any order of merit, but in the order
+that will make connected reading of the book most nearly possible
+and profitable. Each essay should be made easier of reading by the
+examination of those preceding it; at the same time each, by the choice
+of ground covered and by the emphasis on points not brought out sharply
+by its predecessors, should throw new light upon these predecessors.
+
+The reader will find that no two of the essays given thus in full
+duplicate or even come close to duplicating one another. They have
+of course been selected with this in view; each represents the best
+of several essays of substantially the same character. Not all of
+them require comment here, but concerning some of them a word may
+well be said.
+
+Mr. Francis, we believe, has succeeded in packing more substance
+into his 3,000 words than any other competitor. Mr. Elliot has come
+closer than anybody else to really explaining relativity in terms
+familiar to everybody, without asking the reader to enlarge his
+vocabulary and with a minimum demand so far as enlarging his mental
+outlook is concerned. Were it not for certain conspicuous defects,
+his essay would probably have taken the prize. In justice to the
+Judges, we should state that we have taken the liberty of eliminating
+Mr. Elliot's concluding paragraph, which was the most objectionable
+feature of his essay.
+
+Dr. Dushman chose for his title the one which we adopted for this
+book. It became necessary, therefore, for us to find a new title for
+his essay; aside from this instance, the main titles appearing at the
+heads of the various complete essays are those of the authors. The
+subtitles have in practically every instance been supplied editorially.
+
+Dr. Pickering submitted two essays, one written from the viewpoint
+of the physicist, the other from that of the astronomer. To make
+each complete, he naturally found it necessary to duplicate between
+them certain introductory and general material. We have run the two
+essays together into a single narrative, with the elimination of this
+duplicated material; aside from this blue-penciling no alteration
+has been made in Dr. Pickering's text. This text however served as
+the basis of blue-penciling that of several other contestants, as
+indicated in the foot notes.
+
+For the reader who is qualified or who can qualify to understand it,
+Dr. Murnaghan's essay is perhaps the most illuminating of all. Even
+the reader who does not understand it all will realize that its author
+brings to the subject a freshness of viewpoint and an originality of
+treatment which are rather lacking in some of the published essays,
+and which it will readily be understood were conspicuously lacking
+in a good many of the unpublished ones. Dr. Murnaghan of all the
+competitors has come closest to making a contribution to science as
+well as to the semi-popular literature of science.
+
+In the composite chapters, the brackets followed by reference numbers
+have been used as the most practicable means of identifying the
+various individual contributions. We believe that this part of the
+text can be read without allowing the frequent occurrence of these
+symbols to distract the eye. As to the references themselves, the
+asterisk marks the contributions of the Editor. The numbers are those
+attached to the essays in order of and at the time of their receipt;
+it has been more convenient to use these than to assign consecutive
+numbers to the quoted essays. The several numbers identify passages
+from the essays of the following contestants:
+
+
+ 10:   Frederick W. Shurlock, Derby, England.
+ 18:   L. L. Whyte, Cambridge, England.
+ 24:   Prof. Moritz Schlick, University of Rostock, Germany.
+ 30:   C. E. Rose, M.E., Little Rock, Ark.
+ 33:   H. Gartelmann, Bremen, Germany.
+ 35:   Prof. Joseph S. Ames, Johns Hopkins University, Baltimore.
+ 47:   James O. G. Gibbons, East Orange. N. J.
+ 82:   Charles H. Burr, Philadelphia.
+101:   L. F. H. de Miffonis. B.A., C.E., Ottawa, Canada.
+102:   Charles A. Brunn, Kansas City.
+106:   J. Elias Fries, Fellow A.I.E.E., Birmingham, Ala.
+114:   Dean W. P. Graham, Syracuse University, Syracuse, N. Y.
+115:   Rev. George Thomas Manley, London.
+116:   Prof. J. A. Schouten, Delft, Netherlands.
+121:   Elwyn F. Burrill, Berkeley, Cal.
+125:   Dorothy Burr, Bryn Mawr, Pa.
+130:   C. W. Kanolt, Bureau of Standards, Washington.
+135:   Robert Stevenson, New York.
+139:   Leopold Schorsch, New York.
+141:   Dr. M. C. Mott-Smith, Los Angeles, Calif.
+147:   Edward A. Clarke, Columbus, O.
+149:   Edward A. Partridge, Philadelphia.
+150:   Col. John Millis, U. S. A., Chicago.
+152:   George F. Marsteller, Detroit.
+156:   D. B. Hall, Cincinnati.
+165:   Francis Farquhar, York, Pa.
+178:   Dr. George de Bothezat, Dayton, O.
+179:   Professor A. E. Caswell, University of Oregon, Eugene, Ore.
+182:   C. E. Dimick, New London, Conn.
+186:   Earl R. Evans, Washington, D. C.
+188:   Norman E. Gilbert, Dartmouth College, Hanover, N. H.
+192:   A. d'Abro. New York.
+194:   L. M. Alexander, Cincinnati.
+197:   Kenneth W. Reed, East Cleveland, O.
+198:   Prof. E. N. da C. Andrade, Ordnance College, Woolwich, England.
+216:   Professor Andrew H. Patterson, University of North Carolina,
+       Chapel Hill, N. C.
+220:   Prof. Arthur Gordon Webster, Clark College, Worcester, Mass.
+221:   Walter van B. Roberts, Princeton University, N. J.
+223:   Paul M. Batchelder, Austin, Tex.
+227:   Prof. R. W. Wood, Johns Hopkins University, Baltimore.
+229:   E. P. Fairbairn, M.C., B.Sc., Glasgow.
+231:   R. F. Deimel, Hoboken, N. J.
+232:   Lieut. W. Mark Angus, U. S. N., Philadelphia.
+235:   Edward Adams Richardson, Kansas City.
+263:   Prof. William Benjamin Smith, Tulane University, New Orleans.
+264:   James Rice, University of London, London.
+267:   William Hemmenway Pratt, Lynn, Mass.
+272:   R. Bruce Lindsay, New Bedford, Mass.
+283:   Frank E. Law, Montclair, N. J.
+
+
+In addition to the specific credit given by these references for
+specifically quoted passages, the Editor feels that he ought to
+acknowledge his general indebtedness to the competing essayists,
+collectively, for the many ideas which he has taken away from their
+text to clothe in his own words. This does not mean that the Editor has
+undertaken generally to improve upon the language of the competitors,
+but merely that the reading of all their essays has given him many
+ideas of such complex origin that he could not assign credit if
+he would.
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+
+I.--The Einstein $5,000 Prize: How the Contest Came to be Held,
+and Some of the Details of Its Conduct. By the Editor      1
+
+II.--The World--And Us: An Introductory Discussion of the Philosophy
+of Relativity, and of the Mechanism of our Contact with Time and
+Space. By various contributors and the Editor      19
+
+III.--The Relativity of Uniform Motion: Classical Ideas on the
+Subject; the Ether and the Apparent Possibility of Absolute Motion;
+the Michelson-Morley Experiment and the Final Negation of this
+possibility. By various contributors and the Editor      47
+
+IV.--The Special Theory of Relativity: What Einstein's Study of
+Uniform Motion Tells Us About Time and Space and the Nature of the
+External Reality. By various contributors and the Editor      76
+
+V.--That Parallel Postulate: Modern Geometric Methods; the Dividing
+Line Between Euclidean and Non-Euclidean; and the Significance of
+the Latter. By the Editor      111
+
+VI.--The Space-Time Continuum: Minkowski's World of Events, and the
+Way in Which It Fits Into Einstein's Structure. By the Editor and a
+few contributors      141
+
+VII.--Relativity: The Winning Essay in the Contest for the Eugene
+Higgins $5,000 Prize. By Lyndon Bolton, British Patent Office,
+London      169
+
+VIII.--The New Concepts of Time and Space: The Essay in Behalf of
+Which the Greatest Number of Dissenting Opinions Have Been Recorded. By
+Montgomery Francis, New York      181
+
+IX.--The Principle of Relativity: A Statement of What it is All
+About, in Ideas of One Syllable. By Hugh Elliot, Chislehurst, Kent,
+England      195
+
+X.--Space, Time and Gravitation: An Outline of Einstein's Theory of
+General Relativity. By W. de Sitter, University of Leyden      206
+
+XI.--The Principle of General Relativity: How Einstein, to a Degree
+Never Before Equalled, Isolates the External Reality from the
+Observer's Contribution. By E. T. Bell, University of Seattle      218
+
+XII.--Force Vs. Geometry: How Einstein Has Substituted the Second
+for the First in Connection with the Cause of Gravitation. By Saul
+Dushman, Schenectady      230
+
+XIII.--An Introduction to Relativity: A Treatment in which the
+Mathematical Connections of Einstein's Work are Brought Out More
+Strongly and More Successfully than Usual in a Popular Explanation. By
+Harold T. Davis, University of Wisconsin      240
+
+XIV.--New Concepts for Old: What the World Looks Like After Einstein
+Has Had His Way with It. By John G. McHardy, Commander R. N.,
+London      251
+
+XV.--The New World: A Universe in Which Geometry Takes the Place of
+Physics, and Curvature that of Force. By George Frederick Hemens,
+M.C., B.Sc., London      265
+
+XVI.--The Quest of the Absolute: Modern Developments in Theoretical
+Physics, and the Climax Supplied by Einstein. By Dr. Francis
+D. Murnaghan, Johns Hopkins University, Baltimore      276
+
+XVII.--The Physical Side of Relativity: The Immediate Contacts between
+Einstein's Theories and Current Physics and Astronomy. By Professor
+William H. Pickering, Harvard College Observatory, Mandeville,
+Jamaica      287
+
+XVIII.--The Practical Significance of Relativity: The Best Discussion
+of the Special Theory Among All the Competing Essays. By Prof. Henry
+Norris Russell, Princeton University      306
+
+XIX.--Einstein's Theory of Relativity: A Simple Explanation of His
+Postulates and Their Consequences. By T. Royds, Kodaikanal Observatory,
+India      318
+
+XX.--Einstein's Theory of Gravitation: The Discussion of the
+General Theory and Its Most Important Application, from the Essay by
+Prof. W. F. G. Swann, University of Minnesota, Minneapolis      327
+
+XXI.--The Equivalence Hypothesis: The Discussion of This, With Its
+Difficulties and the Manner in Which Einstein Has Resolved Them, from
+the Essay by Prof. E. N. da C. Andrade, Ordnance College, Woolwich,
+England      334
+
+XXII.--The General Theory: Fragments of Particular Merit on This
+Phase of the Subject. By Various Contributors      338
+
+
+
+
+
+
+
+
+
+I.
+
+THE EINSTEIN $5,000 PRIZE
+
+HOW THE CONTEST CAME TO BE HELD, AND SOME OF THE DETAILS OF ITS CONDUCT
+
+BY THE EDITOR
+
+
+In January, 1909, an anonymous donor who was interested in the spread
+of correct scientific ideas offered through the Scientific American a
+prize of $500 for the best essay explaining, in simple non-technical
+language, that paradise of mathematicians and bugaboo of plain
+ordinary folk--the fourth dimension. Many essays were submitted in
+this competition, and in addition to that of the winner some twenty
+were adjudged worthy of ultimate publication. It was felt that the
+competition had added distinctly to the popular understanding of
+this significant subject; that it had done much to clear up popular
+misconception of just what the mathematician means when he talks
+of four or even more dimensions; and that it had therefore been as
+successful as it was unusual in character.
+
+In November, 1919, the world was startled by the announcement from
+London that examination of the photographs taken during the total
+solar eclipse of May 29th had been concluded, and that predictions
+based upon the Einstein theories of relativity had been verified. In
+the reaction from the long surfeit of war news an item of this sort
+was a thoroughly journalistic one. Long cable dispatches were carried
+in the news columns all over the world; Einstein and his theories
+were given a prominent place on the front pages day after day; leading
+scientists in great number were called upon to tell the public through
+the reportorial medium just what the excitement was all about, just
+in what way the classical scientific structure had been overthrown.
+
+Instead of being a mere nine days' wonder, the Einstein theories held
+their place in the public mind. The more serious periodicals devoted
+space to them. First and last, a very notable group of scientific men
+attempted to explain to the general reader the scope and content of
+Einstein's system. These efforts, well considered as they were, could
+be no more than partially successful on account of the very radical
+character of the revisions which the relativity doctrine demands in
+our fundamental concepts. Such revisions cannot be made in a day;
+the average person has not the viewpoint of the mathematician which
+permits a sudden and complete exchange of one set of fundamentals
+for another. But the whole subject had caught the popular attention
+so strongly, that even complete initial failure to discover what it
+was all about did not discourage the general reader from pursuing
+the matter with determination to come to some understanding of what
+had happened to Newton and Newtonian mechanics.
+
+
+
+
+THE DONOR AND THE PRIZE
+
+In May, 1920, Mr. Eugene Higgins, an American citizen long resident
+in Paris, a liberal patron of the arts and sciences, and a lifelong
+friend of the Scientific American and its proprietors, suggested that
+the success of the Fourth Dimension Prize Contest of 1910 had been
+so great that it might be desirable to offer another prize in similar
+fashion for the best popular essay on the Einstein theories. He stated
+that if in the opinion of the Scientific American these theories
+were of sufficient importance, and the probability of getting a
+good number of meritorious essays were sufficiently great, and the
+public need and desire for enlightenment were sufficiently present,
+he would feel inclined to offer such a prize, leaving the conduct
+of the contest to the Scientific American as in the former event. It
+was the judgment of the editors of the Scientific American that all
+these provisos should be met with an affirmative, and that Mr. Higgins
+accordingly could with propriety be encouraged to offer the prize.
+
+In his preliminary letter Mr. Higgins had suggested that in view
+of the apparent greater importance of the subject to be proposed
+for discussion by the contestants of 1920, the prize offered should
+probably be more liberal than in the former instance. This view met
+with the approval of the editors as well; but they were totally
+unprepared for the receipt, late in June, of a cablegram from
+Mr. Higgins stating that he had decided to go ahead with the matter,
+and that he was forwarding a draft for $5,000 to represent the amount
+of the prize. Such a sum, exceeding any award open to a professional
+man with the single exception of the Nobel Prize, for which he cannot
+specifically compete, fairly took the breath of the Editors, and
+made it immediately clear that the contest would attract the widest
+attention, and that it should score the most conspicuous success. It
+also made it clear that the handling of the contest would be a more
+serious matter than had been anticipated.
+
+In spite of the fact that it would not for some time be possible to
+announce the identity of the Judges, it was felt that the prospective
+contestants should have every opportunity for extensive preparation;
+so the contest was announced, and the rules governing it printed
+as far as they could be determined on such short shrift, in the
+Scientific American for July 10, 1920. Several points of ambiguity
+had to be cleared up after this initial publication. In particular,
+it had been Mr. Higgins' suggestion that in the very probable event
+of the Judges' inability to agree upon the winning essay, the prize
+might, at their discretion, be divided between the contributors
+of the best two essays. This condition was actually printed in the
+first announcement, but the Post Office Department insisted upon its
+withdrawal, on the ground that with it in force the contestant would
+not know whether he were competing for $5,000 or for $2,500, and that
+this would introduce the "element of chance" which alone was necessary,
+under the Federal statutes, to make the contest a lottery. So this
+provision was replaced by one to the effect that in the event the
+Judges were not able to agree, the Einstein Editor should cast the
+deciding vote between the essays respectively favored by them.
+
+The announcement attracted the widest attention, and was copied in
+newspapers and magazines all over the world. Inquiries poured in from
+all quarters, and the Einstein Editor found it almost impossible to
+keep himself supplied with proofs of the conditions and rules to mail
+in response to these inquiries. It was immediately clear that there
+was going to be a large number of essays submitted, and that many
+distinguished names would be listed among the competitors.
+
+
+
+
+THE JUDGES
+
+In the Scientific American for September 18, announcement was carried
+in the following words:
+
+"We are assured with complete certainty that the competition for the
+five-thousand-dollar prize will be very keen, and that many essays
+will be submitted which, if they bore the names of their authors, would
+pass anywhere as authoritative statements. The judges will confront a
+task of extraordinary difficulty in the effort to determine which of
+these efforts is the best; and we believe the difficulties are such
+that multiplication of judges would merely multiply the obstacles to
+an agreement. It is altogether likely that the initial impressions
+of two or three or five judges would incline toward two or three
+or five essays, and that any final decision would be attainable
+only after much consultation and discussion. It seems to us that by
+making the committee as small as possible while still preserving the
+necessary feature that its decision represent a consensus, we shall
+simplify both the mental and the physical problem of coming to an
+agreement. We believe that the award should if possible represent
+a unanimous decision, without any minority report, and that such a
+requirement is far more likely to be met among two men than among
+three or five. At the same time, the bringing together of two men and
+the details of general administration of their work together are far
+simpler than if there were three or five. So we have finally decided
+to have but two judges, and in this we have the endorsement of all
+the competent opinion that we have consulted.
+
+"The gentlemen who have consented to act as Judges are Professors
+Leigh Page and Edwin Plimpton Adams, of the departments of physics
+of Yale and Princeton Universities, respectively. Both are of the
+younger generation of physicists that has paid special attention to
+those phases of mathematics and physics involved in the Einstein
+theories, and both have paid special attention to these theories
+themselves. We are gratified to be able to put forward as Judges
+two men so eminently qualified to act. We feel that we may here
+appropriately quote Professor Page, who says in his acceptance:
+'As the large prize offers a great inducement, I had thought of
+entering the contest. However I realize that not many people in
+this country have made a considerable study of Einstein's theory,
+and if all who have should enter the contest, it would be difficult
+to secure suitable Judges.' Without any desire to put the gentleman
+in the position of pleading for himself, we think this suggests very
+well the extent to which the Scientific American, the contestants,
+and the public at large, are indebted to Professors Page and Adams
+for their willingness to serve in the difficult capacity of Judges."
+
+It might appropriately have been added to this announcement that it
+was altogether to the credit of science and the scientific spirit
+that the first two gentlemen approached with the invitation to act
+as Judges were willing to forego their prospects as contestants in
+order thus to contribute to the success of the contest.
+
+
+
+
+THREE THOUSAND WORDS
+
+Of the conditions, the one which evoked most comment was that stating
+the word limit. This limit was decided upon after the most careful
+discussion of the possibilities of the situation. It was not imagined
+for a moment that any contestant would succeed in getting within
+3,000 words a complete discussion of all aspects of the Special
+and the General Theories of Relativity. It was however felt that
+for popular reading a single essay should not be much if any longer
+than this. Moreover, I will say quite frankly that we should never
+have encouraged Mr. Higgins to offer such a prize if we had supposed
+that the winning essay was the only thing of value that would come
+from the contest, or if we had not expected to find in many of the
+other essays material which would be altogether deserving of the
+light. From the beginning we had in view the present volume, and the
+severe restriction in length was deliberately imposed for the purpose
+of forcing every contestant to stick to what he considered the most
+significant viewpoints, and to give his best skill to displaying the
+theories of Einstein to the utmost advantage from these viewpoints. We
+felt that divergent viewpoints would be more advantageously treated in
+this manner than if we gave each contestant enough space to discuss
+the subject from all sides; and that the award of the prize to the
+essay which, among other requirements, seemed to the Judges to embody
+the best choice of material, would greatly simplify the working of the
+contest without effecting any injustice against those contestants who
+displayed with equal skill less happily chosen material. Perhaps on
+this point I may again quote with profit the editorial page of the
+Scientific American:
+
+"An essay of three thousand words is not long enough to lose a
+reader more than once; if it does lose him it is a failure, and if
+it doesn't it is a competitor that will go into the final elimination
+trials for the prize. If we can present, as a result of the contest,
+six or a dozen essays of this length that will not lose the lay reader
+at all, we shall have produced something amply worth the expenditure
+of Mr. Higgins' money and our time. For such a number of essays of
+such character will of necessity present many different aspects of
+the Einstein theories, and in many different ways, and in doing so
+will contribute greatly to the popular enlightenment.
+
+"Really the significant part of what has already appeared is
+not the part that is intelligible, but rather the part that,
+being unintelligible, casts the shadow of doubt and suspicion
+on the whole. The successful competitor for the prize and
+his close contestants will have written essays that, without
+any claim to completeness, will emphasize what seems to each
+author the big outstanding feature; and every one of them will be
+intelligible. Together they will in all probability be reasonably
+complete, and will retain the individual characteristic of
+intelligibility. They will approach the various parts of the field
+from various directions--we could fill this page with suggestions as
+to how the one item of the four-dimensional character of Einstein's
+time-space might be set forth for the general reader. And when a man
+must say in three thousand words as much as he can of what eminent
+scientists have said in whole volumes--well, the result in some cases
+will be sheer failure, and in others a product of the first water. The
+best of the essays will shine through intelligent selection of what
+is to be said, and brilliant success in saying it. It is to get a
+group of essays of this character, not to get the single essay which
+will earn the palm, that the prize is offered."
+
+
+
+
+THE COMPETING ESSAYS
+
+At all times after the first announcement the Einstein Editor had a
+heavy correspondence; but the first real evidence that the contest was
+under way came with the arrival of the first essay, which wandered
+into our office in the middle of September. About a week later they
+began to filter in at the rate of one or two per day--mostly from
+foreign contestants who were taking no chances on the mails. Heavy
+returns did not commence until about ten days before the closing
+date. The great avalanche, however, was reserved for the morning of
+Monday, November 1st. Here we had the benefit of three days' mail;
+there were about 120 essays. Among those which were thrown out on
+the ground of lateness the honors should no doubt go to the man who
+mailed his offering in The Hague on October 31st.
+
+Essays were received in greater quantity from Germany than from any
+other foreign country, doubtless because of the staggering value of
+$5,000 when converted into marks at late 1920 rates. England stood
+next on the list; and one or more essays were received from Austria,
+Czechoslovakia, Jugoslavia, France, Switzerland, the Netherlands,
+Denmark, Italy, Chile, Cuba, Mexico, India, Jamaica, South Africa
+and the Fiji Islands. Canada, of course, contributed her fair share;
+and few of our own states were missing on the roll-call.
+
+The general level of English composition among the essays from
+non-English-speaking sources was about what might have been expected. A
+man may have a thorough utilitarian knowledge of a foreign tongue,
+but when he attempts intensive literary competition with a man who was
+brought up in that tongue he is at a disadvantage. We read French and
+German with ease and Spanish and Italian without too much difficulty,
+ourselves; we should never undertake serious writing in any of these
+languages. Not many of the foreign contributions, of course, were
+as ludicrous as the one we quote to some extent in our concluding
+chapter, but most of them were distinctly below par as literary
+compositions. Drs. De Sitter and Schlick were the notable exceptions
+to this; both showed the ability to compete on a footing of absolute
+equality with the best of the native product.
+
+We dare say it was a foregone conclusion that many essays should have
+been over the limit, and that a few should have been over it to the
+point of absurdity. The winning essay contains 2,919 words, plus or
+minus a reasonable allowance for error in counting; that it should
+come so far from being on the ragged edge should be sufficient answer
+to those who protested against the severity of the limitation. One
+inquirer, by the way, wanted to know if 3,000 words was not a misprint
+for 30,000. Another contestant suggested that instead of disqualifying
+any essay that was over the line, we amputate the superfluous words
+at the end. This was a plausible enough suggestion, since any essay
+able to compete after such amputation must necessarily have been one
+of extreme worth; but fortunately we did not have to decide whether we
+should follow the scheme. Perhaps twenty of the essays submitted were
+so seriously in excess of the limit that it was not even necessary
+to count their words in detail; most of these offenders ran to 3,500
+words or thereabouts, and one--a good one, too, from which we use
+a good deal of material in this volume--actually had 4,700. On the
+other extreme were a few competitors who seemed to think that the
+shortest essay was necessarily the best, and who tried to dismiss
+the subject with 500 or 1,000 words.
+
+By a curious trick of chance there were submitted in competition
+for the prize exactly 300 essays. Of course a few of these did not
+require serious consideration--this is inevitable in a contest of such
+magnitude. But after excluding all the essays that were admittedly
+not about the Einstein theories at all, and all those whose English
+was so execrable as to make them quite out of the question, and all
+those which took the subject so lightly as not to write reasonably
+close to the limit of 3,000 words, and all those which were given
+over to explanation of the manner in which Einstein's theories verify
+those of the writer, and all those in which the writer attempted
+to substitute his own cosmic scheme for Einstein's--after all this,
+there remained some 275 essays which were serious efforts to explain
+in simple terms the nature and content and consequences of Special
+and General Relativity.
+
+
+
+
+LOOKING FOR THE WINNER
+
+The Einstein Editor was in sufficiently close touch with the details
+of the adjudication of the essays to have every realization of
+the difficulty of this work. The caliber of the essays submitted
+was on the whole high. There were many which would have been well
+worthy of the prize in the absence of others that were distinctly
+better--many which it was not possible to eliminate on the ground of
+specific faults, and which could only be adjudged "not the best" by
+detailed comparison with specific other essays. It was this detailed
+comparison which took time, and which so delayed the award that we
+were not able to publish the winning essay any sooner than February
+5th. Especially difficult was this process of elimination after the
+number of surviving essays had been reduced to twenty or less. The
+advantages of plan possessed by one essay had to be weighed against
+those of execution exhibited in another. A certain essay had to be
+critically compared with another so like it in plan that the two might
+have been written from a common outline, and at the same time with
+a third as unlike it in scope and content as day and night. And all
+the time there was present in the background the consciousness that
+a prize of $5,000 hung upon the decision to be reached. For anyone
+who regards this as an easy task we have no worse wish than that he
+may some day have to attack a similar one.
+
+We had anticipated that the bulk of the superior essays would be
+among those received during the last day or two of the contest;
+for we felt that the men best equipped to attack the subject would
+be the most impressed with its seriousness. Here we were quite off
+the track. The seventeen essays which withstood most stubbornly the
+Judges' efforts at elimination were, in order of receipt, numbers 8,
+18, 28, 40, 41, 43, 92, 95, 97, 130, 181, 194, 198, 223, 267, 270, 275:
+a fairly even distribution. The winner was the 92nd essay received.
+
+The Judges held their final meeting in the editorial office on
+January 18, 1921. The four essays which were before the committee
+at the start of the session were speedily cut to three, and then
+to two; and after an all-day session the Judges found themselves
+conscientiously able to agree on one of these as the best. This
+unanimity was especially gratifying, the more so since it by no
+means was to be confidently expected, on a priori grounds, that it
+would be possible of attainment. Even the Einstein Editor, who might
+have been called upon for a final decision but wasn't, can hardly be
+classed as a dissenter; for with some slight mental reservations in
+favor of the essay by Mr. Francis which did not enter the Judges'
+final discussion at all, and which he rather suspects appeals more
+to his personal taste than to his soundest judgment, he is entirely
+in accord with the verdict rendered.
+
+The fact that the prize went to England was no surprise to those
+acquainted with the history of Einstein's theories. The Special Theory,
+promulgated fifteen years ago, received its fair share of attention
+from mathematicians all over the world, and is doubtless as well
+known and as fully appreciated here as elsewhere. But it has never
+been elevated to a position of any great importance in mathematical
+theory, simply because of itself, in the absence of its extension
+to the general case, it deserves little importance. It is merely an
+interesting bit of abstract speculation.
+
+The General Theory was put out by Einstein in finished form during
+the war. Owing to the scientific moratorium, his paper, and hence a
+clear understanding of the new methods and results and of the sweeping
+consequences if the General Theory should prevail, did not attain
+general circulation outside Germany until some time in 1918 or even
+later. Had it not been for Eddington it is doubtful that the British
+astronomers would have realized that the eclipse expeditions were of
+particular consequence. Therefore at the time of these expeditions,
+and even as late as the November announcement of the findings, the
+general body of scientific men in America had not adequately realized
+the immense distinction between the Special and the General Theories,
+had not adequately appreciated that the latter led to distinctive
+consequences of any import, and we fear in many cases had not even
+realized explicitly that the deflection of light and the behavior of
+Mercury were matters strictly of the General and in no sense of the
+Special Theory. Certainly when the American newspapers were searching
+frantically for somebody to interpret to their public the great stir
+made by the British announcement that Einstein's predictions had
+been verified, they found no one to do this decently; nor were our
+magazines much more successful in spite of the greater time they had
+to devote to the search. In a word, there is not the slightest room
+for doubt that American science was in large measure caught asleep
+at the switch--perhaps for no reason within its control; and that
+American writers were in no such favorable case to write convincingly
+on the subject as were their British and continental contemporaries.
+
+So it was quite in accord with what might have been expected to find,
+on opening the identifying envelopes, that not alone the winning essay,
+but its two most immediate rivals, come from members of that school of
+British thought which had been in contact with the Einstein theories
+in their entirety for two years longer than the average American of
+equal competence. This riper familiarity with the subject was bound
+to yield riper fruit. Indeed, had it not been for the handicap of
+writing in a strange language, it is reasonable to assume that the
+scientists of Germany would have made a showing superior to that of
+either Americans or British--and for the same reason that Britain
+showed to better advantage than America.
+
+
+
+
+THE WINNER OF THE PRIZE
+
+Mr. Bolton, the winner of the big prize, we suppose may fairly be
+referred to as unknown in a strict scientific sense. Indeed, at
+the time of the publication of his essay in the Scientific American
+nothing could be learned about him on the American side of the water
+beyond the bare facts that he was not a young man, and that he had
+for a good many years occupied a position of rank in the British
+Patent Office. (It will be recalled that Einstein himself was in the
+Swiss Patent Office for some time.) In response to the request of the
+Scientific American for a brief biographical sketch that would serve
+to introduce him better to our readers, Mr. Bolton supplied such a
+concise and apparently such a characteristic statement that we can
+do no better than quote it verbatim.
+
+"I was born in Dublin in 1860, but I have lived in England since
+1869. My family belonged to the landed gentry class, but I owe nothing
+to wealth or position. I was in fact put through school and college
+on an income which a workman would despise nowadays. After attending
+sundry small schools, I entered Clifton College in 1873. My career
+there was checkered, but it ended well. I was always fairly good at
+natural science and very fond of all sorts of mechanical things. I
+was an honest worker but no use at classics, and as I did practically
+nothing else for the first four years at Clifton, I came to consider
+myself something of a dunce. But a big public school is a little
+world. Everyone gets an opportunity, often seemingly by accident,
+and it is up to him to take it. Mine did not come till I was nearly
+17. As I was intended for the engineering profession, I was sent to
+the military side of the school in order to learn some mathematics,
+at which subject I was then considered very weak. This was certainly
+true, as at that time I barely knew how to solve a quadratic, I was
+only about halfway through the third book of Euclid, and I knew no
+trigonometry. But the teaching was inspiring, and I took readily
+to mathematics. One day it came out that I had been making quite a
+good start with the differential calculus on my own without telling
+anybody. After that all was well. I left Clifton in 1880 with a School
+Exhibition and a mathematical scholarship at Clare College, Cambridge.
+
+"After taking my degree in 1883 as a Wrangler, I taught science and
+mathematics at Wellington College, but I was attracted by what I had
+heard of the Patent Office and I entered it through open competition in
+1885. During my official career I have been one of the Comptroller's
+private secretaries and I am now a Senior Examiner. During the
+war I was attached to the Inventions Department of the Ministry of
+Munitions, where my work related mainly to anti-aircraft gunnery. I
+have contributed, and am still contributing to official publications
+on the subject.
+
+"I have written a fair number of essays on various subjects, even
+on literature, but my only extra-official publications relate to
+stereoscopic photography. I read a paper on this subject before the
+Royal Photographic Society in 1903 which was favorably noticed by
+Dr. von Rohr of Messrs. Zeiss of Jena. I have also written in the
+Amateur Photographer.
+
+"I have been fairly successful at athletics, and I am a member of
+the Leander Club."
+
+That Mr. Bolton did not take the prize through default of serious
+competition should be plain to any reader who examines the text from
+competing essays which is to be found in this volume. The reference
+list of these competitors, too, supplemented by the names that appear
+at the heads of complete essays, shows a notable array of distinguished
+personalities, and I could mention perhaps a dozen more very well
+known men of science whose excellent essays have seemed a trifle too
+advanced for our immediate use, but to whom I am under a good deal
+of obligation for some of the ideas which I have attempted to clothe
+in my own language.
+
+Before leaving the subject, we wish to say here a word of appreciation
+for the manner in which the Judges have discharged their duties. The
+reader will have difficulty in realizing what it means to read such
+a number of essays on such a subject. We were fortunate beyond all
+expectation in finding Judges who combined a thorough scientific
+grasp of the mathematical and physical and philosophical aspects
+of the matter with an extremely human viewpoint which precluded any
+possibility of an award to an essay that was not properly a popular
+discussion, and with a willingness to go to meet each other's opinions
+that is rare, even among those with less ground for confidence in
+their own views than is possessed by Drs. Page and Adams.
+
